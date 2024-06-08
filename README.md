@@ -3,6 +3,12 @@
 Project scaffolding tool using Go inbuilt templating engine.
 
 
+## Installation
+
+```bash
+go install github.com/aredcomet/scaffold@latest
+```
+
 ## Usage
 
 ```bash
